@@ -1,17 +1,11 @@
 body {
-  font-family: "helvetica, sans-serif";
+  font-family: "Helvetica", sans-serif;
   background-color: beige; 
 }
 
 p {
   color:red;
-  font-family: "helvetica";
-
 }
 
-img {
-  
-  display: block; 
-  margin: 0 auto;
-  
-}
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Times New Roman", serif;
